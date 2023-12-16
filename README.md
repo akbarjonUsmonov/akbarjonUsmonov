@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**akbarjonUsmonov/akbarjonUsmonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Akbar Usmonov</h1>
 
-Here are some ideas to get you started:
+I am Akbar from Uzbekistan and i am junior software developer who is starting his professional career in software engineering.
+I am realy interested in algorithms and new technologies in programming and i love implement famous Linux commands and programming functions
+in various lanuages including both low and hight level programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Skills and Experience</h1>
+
+🏅 C/C#
+♠  Assembly (Nasm 32/64 bit)
+💻 HTML/CSS
+🥈 Ruby, JavaScript
