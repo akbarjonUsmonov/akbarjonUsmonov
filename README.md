@@ -8,7 +8,7 @@ in various lanuages including both low and hight level programming languages.
 
 <h1>Skills and Experience</h1>
 
-🏅 C/C# \n
-♠  Assembly (Nasm 32/64 bit) \n
-💻 HTML/CSS \n
-🥈 Ruby, JavaScript \n
+🏅 C/C#.
+♠  Assembly (Nasm 32/64 bit).
+💻 HTML/CSS.
+🥈 Ruby, JavaScript.
