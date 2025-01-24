@@ -1,8 +1,9 @@
 #   @kbar Usmonov
 
-I am a software engineer 👨‍💻 starting my own journey in the programming world 🌍 by rebuilding famous programming language
-functions and other complex systems. Focusing on designing the program 🎨 and code architecture 📐, I love to work on 
-the backend and system feature side of projects ⚙️. 
+###
+I am a software engineer 👨‍💻 starting my journey in the programming world 🌍 by rebuilding famous programming language 
+functions and other complex systems. I focus on designing programs 🎨 and code architecture 📐, and I love to work on
+the backend and system feature side of projects ⚙️
 
 ### 🛠 Languages and Tools:
 
