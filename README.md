@@ -3,7 +3,7 @@
 ###
 I am a software engineer 👨‍💻 starting my journey in the programming world 🌍 by rebuilding famous programming language 
 functions and other complex systems. I focus on designing programs 🎨 and code architecture 📐, and I love to work on
-the backend and system feature side of projects ⚙️
+the back-end and system feature side of projects ⚙️
 
 ### 🛠 Languages and Tools:
 
